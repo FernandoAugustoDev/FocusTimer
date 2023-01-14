@@ -9,7 +9,7 @@
 <br><br>
 
 <p align="center"> 
-    <a href="https://fernandoaugustodev.github.io/Treine.me/" target="_blank" ><button style = "font-size:20px; border-radius:6px; padding: 10px; background: #02799D; color: #fff" >VEJA O PROJETO</button></a>
+    <a href="https://fernandoaugustodev.github.io/FocusTimer/" target="_blank" ><button style = "font-size:20px; border-radius:6px; padding: 10px; background: #02799D; color: #fff" >VEJA O PROJETO</button></a>
 </p>
 <hr>
 
